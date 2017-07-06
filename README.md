@@ -8,19 +8,19 @@ a) [Learning Path on R](https://www.analyticsvidhya.com/learning-paths-data-scie
 b) [Learning Path on Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/): Step 0 to Step 2
 
 
-##Step 1: Learn basic Descriptive and Inferential Statistics
+## Step 1: Learn basic Descriptive and Inferential Statistics
 
-a) [descriptive statistics](https://www.udacity.com/course/ud827)
+1. [descriptive statistics](https://www.udacity.com/course/ud827)
 
-b) [Inferential statistics](https://www.udacity.com/course/ud201)
+2. [Inferential statistics](https://www.udacity.com/course/ud201)
 
-c) Tools:
+3. Tools:
 
 R: [Stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html)
 
 Python: [Scipy](http://docs.scipy.org/doc/scipy/reference/tutorial/), [Numpy](http://wiki.scipy.org/Tentative_NumPy_Tutorial), [Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
-##Step 2: Data Exploration / Cleaning / Preparation
+## Step 2: Data Exploration / Cleaning / Preparation
 
 The more quality time you spend here, the better it is.
 
@@ -42,7 +42,7 @@ Exercise / assignment:
 
 2. Similarly, take up the Bike sharing demand forecasting problem and repeat the cycle mentioned above.
 
-##Step 3: Introduction to Machine Learning
+## Step 3: Introduction to Machine Learning
 
 1. Option 1: If you are some one who likes to take learning in small small steps and need more hand holding, you should start from [Machine learning course from Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
@@ -50,7 +50,7 @@ Exercise / assignment:
 
 You can refer learning path (step-6 ) of [R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)(additionally, [ML Algorithms in R](http://machinelearningmastery.com/how-to-get-started-with-machine-learning-algorithms-in-r/)) and [Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/) to explore about these packages and related options.
 
-##Step 4: Participate in Kaggle Knowledge competition
+## Step 4: Participate in Kaggle Knowledge competition
 
 [Titanic: Machine Learning from Disaster]()
 
@@ -58,9 +58,9 @@ You can refer learning path (step-6 ) of [R](https://www.analyticsvidhya.com/lea
 
 [How do I start my journey on Kaggle?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 
-##Step 5: Advanced Machine Learning
+## Step 5: Advanced Machine Learning
 
-###Deep Learning
+### Deep Learning
 
 1. [introduction](https://www.analyticsvidhya.com/blog/2014/06/deep-learning-attention/)
 
@@ -76,12 +76,15 @@ Pattern recognition using Python ([Resource 1](http://pythonvision.org/basic-tut
 
 Text Mining using Python ([Resource](https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/)) and R ([Resource 1](https://rstudio-pubs-static.s3.amazonaws.com/31867_8236987cf0a8444e962ccd2aec46d9c3.html) , [Resource 2](https://deltadna.com/blog/text-mining-in-r-for-term-frequency/))
 
-Books:
+## Books:
+
 Learn Python The Hard Way_ A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd ed.)
+
 Think Python - How To Think Like a Computer Scientist
 
-Course:
-*[Data Scientist with Python Track](https://www.datacamp.com/tracks/data-scientist-with-python)
+## Course:
+
+[Data Scientist with Python Track](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 
 
